@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849721307565",
+    "project_id": "aplikasi-resep-efdaf",
+    "storage_bucket": "aplikasi-resep-efdaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849721307565:android:bbecf065e3f3bbcd4e7124",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_resep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuY0jzYxcVbi8t5PUqi6I833DWcP4vHnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
